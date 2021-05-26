@@ -2,7 +2,6 @@
 Replace the contents of this module docstring with your own details
 Name:Kenzin Igor
 Date started:04.04.2021
-GitHub URL:https://github.com/JCUS-CP1404/assignment-1-reading-tracker-igor5514
 """
 
 # Constants for application info
